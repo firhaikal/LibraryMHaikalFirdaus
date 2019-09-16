@@ -24,7 +24,7 @@
         android:layout_height="50dp"
         android:textSize="20sp"
         android:text="GENERATE KODE"
-        android:id="@+id/button"
+        android:id="@+id/buttonqr"
         android:textColor="@color/CodeWhiteColor"
         android:textStyle="bold"
         android:background="@color/colorAccent"
@@ -36,6 +36,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView"
         android:layout_centerHorizontal="true"
-        android:layout_below="@id/button"/>
+        android:layout_below="@id/buttonqr"/>
 
 </RelativeLayout>
